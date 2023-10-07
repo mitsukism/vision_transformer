@@ -1,0 +1,2 @@
+# vision_transformer
+vision transformerの事前学習と医療データで転移学習
